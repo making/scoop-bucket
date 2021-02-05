@@ -1,2 +1,1 @@
-# rsc-bucket
-scoop bucket for rsc
+# scoop bucket
