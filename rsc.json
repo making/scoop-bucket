@@ -1,12 +1,12 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "RSocket Client CLI (RSC) that aims to be a curl for RSocket",
   "homepage": "https://github.com/making/rsc",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/making/rsc/releases/download/0.9.0/rsc-x86_64-pc-win32.exe#/rsc.exe",
-      "hash": "a6c55e61de91712e37062ff5cb5e0ff99a51a29d83e813ffc396bbb5eb18b4db"
+      "url": "https://github.com/making/rsc/releases/download/0.9.1/rsc-x86_64-pc-win32.exe#/rsc.exe",
+      "hash": "bcaa28e0bfc3aacfbea6495a3c6e192b1e2ea7a03396a35d348c068b8b0f1775"
     }
   },
   "bin": "rsc.exe",
